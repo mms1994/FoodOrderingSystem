@@ -3,5 +3,5 @@ package main.model.cuisine;
 /**
  * Created by Michał Spirała
  */
-public class Polish {
+public class Polish extends Cuisine {
 }

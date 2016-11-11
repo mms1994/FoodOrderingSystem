@@ -1,7 +1,7 @@
-package main.model;
+package main.model.cuisine;
 
 /**
  * Created by Michał Spirała
  */
-public class Cuisine {
+public abstract class Cuisine {
 }

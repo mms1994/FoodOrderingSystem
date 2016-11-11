@@ -1,7 +1,10 @@
 package main.model.dish.meal;
 
+import main.model.dish.Dish;
+
 /**
  * Created by Michał Spirała
  */
-public class Meal {
+public abstract class Meal extends Dish {
+
 }
