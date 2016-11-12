@@ -1,9 +1,13 @@
-package main.model.dish.meal;
+package main.model.dish;
 
 /**
  * Created by Michał Spirała
  */
-public class Pizza extends Meal {
+public class Dessert extends Dish {
+    public Dessert(Double price, String name) {
+        super(price, name);
+    }
+
     @Override
     public Double getPrice() {
         return price;
