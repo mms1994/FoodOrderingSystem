@@ -1,8 +1,8 @@
 package main.model.dish;
 
 public class DrinkBuilder {
-    private Boolean iceCubes;
-    private Boolean lemon;
+    private Boolean iceCubes = false;
+    private Boolean lemon = false;
     private String name;
     private Double price;
 

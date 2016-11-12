@@ -13,12 +13,12 @@ public class Drink extends Dish {
         this.lemon = lemon;
     }
 
-    public void setIceCubes(Boolean iceCubes) {
-        this.iceCubes = iceCubes;
+    public void setIceCubes() {
+        this.iceCubes = true;
     }
 
-    public void setLemon(Boolean lemon) {
-        this.lemon = lemon;
+    public void setLemon() {
+        this.lemon = true;
     }
 
     public Boolean getIceCubes() {
